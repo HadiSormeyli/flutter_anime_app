@@ -1,4 +1,4 @@
-# flutter_anime_app
+  # flutter_anime_app
 
 Anime app with flutter
 🌟 Dive into the captivating world of anime with our brand new app! 🎉 Discover a vast collection of your favorite shows, from timeless classics to the latest releases. 📺 Immerse yourself in stunning visuals, gripping storylines, and unforgettable characters.<br/>
@@ -8,3 +8,6 @@ Feel free to reach out to me via email or connect with me on GitHub and LinkedIn
 <br/><br/>
 ![alt text](https://github.com/HadiSormeyli/flutter_anime_app/blob/master/assets/images/image1.jpg)
 
+<br/><br/>
+
+Clean architecture app using BLoC,dio and get_it packages.
