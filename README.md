@@ -1,16 +1,10 @@
 # flutter_anime_app
 
-A new Flutter project.
+Anime app with flutter
+🌟 Dive into the captivating world of anime with our brand new app! 🎉 Discover a vast collection of your favorite shows, from timeless classics to the latest releases. 📺 Immerse yourself in stunning visuals, gripping storylines, and unforgettable characters.<br/>
+📧 Email: mohammadhadisormeyli@gmail.com<br/>
+🌐 GitHub: https://github.com/HadiSormeyli/<br/>
+Feel free to reach out to me via email or connect with me on GitHub and LinkedIn. I'm always open to collaboration and networking opportunities!
+<br/><br/>
+![alt text](https://github.com/HadiSormeyli/flutter_anime_app/blob/master/assets/images/image1.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
